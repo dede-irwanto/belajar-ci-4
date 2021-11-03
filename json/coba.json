@@ -1,0 +1,32 @@
+[
+        {
+                "nama": "Dede Irwanto",
+                "umur": 32,
+                "nrp": "12344321",
+                "lulus": true,
+                "hobby": [
+                        "coding",
+                        "sleeping",
+                        "eating"
+                ],
+                "pembimbing": {
+                        "pembimbing1": "Doddy Ferdiansya",
+                        "pembimbing2": "Erik"
+                }
+        },
+        {
+                "nama": "Dede Irwanto",
+                "umur": 32,
+                "nrp": "12344321",
+                "lulus": true,
+                "hobby": [
+                        "coding",
+                        "sleeping",
+                        "eating"
+                ],
+                "pembimbing": {
+                        "pembimbing1": "Doddy Ferdiansya",
+                        "pembimbing2": "Erik"
+                }
+        }
+]
